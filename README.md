@@ -5,10 +5,11 @@
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-local2prod.vercel.app-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://local2prod.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/local2prod/)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayanky975@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/whos_mayank)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://local2prod.medium.com/)
+[![Medium](https://img.shields.io/badge/Medium-807800?style=for-the-badge&logo=medium&logoColor=white)](https://local2prod.medium.com/)
 [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/devs2prod)
 </div>
 
@@ -28,10 +29,10 @@ $ cat ~/.certifications
 
 $ kubectl get skills --all-namespaces
   NAMESPACE          SKILL               STATUS    EXPERIENCE
-  cloud              AWS / GCP / Azure   Running   2y+
-  containers         Kubernetes / Helm   Running   2y+
-  iac                Terraform / Ansible Running   2y+
-  cicd               Jenkins / GitLab    Running   2y+
+  cloud              AWS / GCP / Azure   Running   3y+
+  containers         Kubernetes / Helm   Running   4y+
+  iac                Terraform / Ansible Running   3y+
+  cicd               Jenkins / GitLab    Running   3y+
   observability      Prometheus/Grafana  Running   2y+
 
 $ echo $CURRENT_FOCUS
@@ -139,6 +140,14 @@ $ echo $CURRENT_FOCUS
                       │  across multi-cloud  │  pipelines           │  across client projects   │
                       └──────────────────────┴──────────────────────┴───────────────────────────┘
 ```
+---
+
+## ✍️ Latest Blog Posts
+
+- [Set Up a Site-to-Site VPN Between AWS and GCP](https://medium.com/@devs2prod/set-up-a-site-to-site-vpn-between-aws-and-gcp-bf96b2da5976) — *Sep 18, 2025*
+- [Set Up Self-Hosted Sentry on EC2 Instance](https://medium.com/@devs2prod/set-up-self-hosted-sentry-on-ec2-instance) — *Sep 12, 2025*
+- [Guide to Setup SonarQube on Ubuntu 22.04](https://medium.com/@devs2prod/guide-to-setup-the-sonarqube-on-ubuntu-22-04) — *Oct 1, 2024*
+
 ---
 
 ## 🏅 Certifications
