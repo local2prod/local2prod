@@ -1,15 +1,14 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Mayank+Yadav+%F0%9F%91%8B;DevOps+Engineer+%7C+Cloud+Architect+%F0%9F%9A%80;AWS+%26+GCP+Certified+%E2%98%81%EF%B8%8F;Automating+Everything%2C+One+Pipeline+at+a+Time+%F0%9F%94%84" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Mayank+Yadav+%F0%9F%91%8B;DevOps+Engineer+%7C+Cloud+Architect+%F0%9F%9A%80;AWS+%26+GCP+Certified+%E2%98%81%EF%B8%8F;Infrastructure,+Automation+%26+Reliability" alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/whos-mayank/)
-[![Gmail](https://img.shields.io/badge/mayanky975@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayanky975@gmail.com)
-[![Twitter](https://img.shields.io/badge/@whos__mayank-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/whos_mayank)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/local2prod/)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayanky975@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/whos_mayank)
 [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/devs2prod)
-
 </div>
 
 ---
@@ -43,18 +42,17 @@ $ echo $CURRENT_FOCUS
 ## ⚙️ The DevOps Pipeline — My Skill Stack
 
 ```
- ┌──────────────┐    ┌──────────────┐    ┌──────────────┐    ┌──────────────┐
- │   PLAN &     │───▶│    BUILD &   │───▶│    DEPLOY &  │───▶│   MONITOR &  │
- │   PROVISION  │    │   CONTAINERIZE    │  ORCHESTRATE │    │   OBSERVE    │
- └──────┬───────┘    └──────┬───────┘    └──────┬───────┘    └──────┬───────┘
-        │                   │                   │                   │
-   Terraform           Docker              Kubernetes          Prometheus
-   Ansible             Helm             AWS CodePipeline        Grafana
- CloudFormation      Docker Swarm        GitLab CI/CD          ELK Stack
-   Git / GitHub        Jenkins           Azure DevOps           SigNoz
-                                                             OpenTelemetry
+                      ┌──────────────┐    ┌──────────────┐    ┌──────────────┐    ┌──────────────┐
+                      │   PLAN &     │───▶│    BUILD &   │───▶│    DEPLOY &  │───▶│   MONITOR &  │
+                      │   PROVISION  │    │   CONTAINERIZE    │  ORCHESTRATE │    │   OBSERVE    │
+                      └──────┬───────┘    └──────┬───────┘    └──────┬───────┘    └──────┬───────┘
+                             │                   │                   │                   │
+                         Terraform             Docker            Kubernetes          Prometheus
+                          Ansible               Helm          AWS CodePipeline        Grafana
+                       CloudFormation        Docker Swarm       GitLab CI/CD          ELK Stack
+                        Git / GitHub           Jenkins          Azure DevOps           SigNoz
+                                                                                    OpenTelemetry
 ```
-
 ---
 
 ## ☁️ Cloud & Infrastructure
@@ -123,21 +121,20 @@ $ echo $CURRENT_FOCUS
 ## 📈 SLA Dashboard — Key Impact Metrics
 
 ```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                     PRODUCTION METRICS OVERVIEW                         │
-├──────────────────────┬──────────────────────┬───────────────────────────┤
-│  ↓ Cloud Costs       │  ↑ Release Velocity  │  ↓ MTTR                  │
-│      27%             │        50%           │       40%                 │
-│  via rightsizing &   │  CI/CD pipelines +   │  Prometheus + Grafana    │
-│  autoscaling         │  Blue-Green deploys  │  centralized alerting    │
-├──────────────────────┼──────────────────────┼───────────────────────────┤
-│  ↓ Manual Effort     │  ↓ Deploy Effort     │  ↓ Incident Detection    │
-│      30%             │        60%           │       35%                 │
-│  Terraform modules   │  Helm-based release  │  Prometheus + Grafana    │
-│  across multi-cloud  │  pipelines           │  across client projects  │
-└──────────────────────┴──────────────────────┴───────────────────────────┘
+                      ┌─────────────────────────────────────────────────────────────────────────┐
+                      │                     PRODUCTION METRICS OVERVIEW                         │
+                      ├──────────────────────┬──────────────────────┬───────────────────────────┤
+                      │  ↓ Cloud Costs       │  ↑ Release Velocity  │  ↓ MTTR                   │
+                      │      27%             │        50%           │       40%                 │
+                      │  via rightsizing &   │  CI/CD pipelines +   │  Prometheus + Grafana     │
+                      │  autoscaling         │  Blue-Green deploys  │  centralized alerting     │
+                      ├──────────────────────┼──────────────────────┼───────────────────────────┤
+                      │  ↓ Manual Effort     │  ↓ Deploy Effort     │  ↓ Incident Detection     │
+                      │      30%             │        60%           │       35%                 │
+                      │  Terraform modules   │  Helm-based release  │  Prometheus + Grafana     │
+                      │  across multi-cloud  │  pipelines           │  across client projects   │
+                      └──────────────────────┴──────────────────────┴───────────────────────────┘
 ```
-
 ---
 
 ## 🏅 Certifications
