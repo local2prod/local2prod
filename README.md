@@ -5,7 +5,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-local2prod.vercel.app-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://local2prod.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://local2prod.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/local2prod/)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayanky975@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/whos_mayank)
@@ -155,6 +155,7 @@ $ echo $CURRENT_FOCUS
 <div align="center">
 
 [![AWS](https://img.shields.io/badge/AWS_Certified-Solutions_Architect_Associate_2024-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
+
 [![GCP](https://img.shields.io/badge/GCP_Certified-Professional_Cloud_Developer_2024-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/certification)
 
 </div>
@@ -174,18 +175,6 @@ $ echo $CURRENT_FOCUS
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=local2prod&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 
-<br/><br/>
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=local2prod&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=local2prod&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
 
 <br/>
 
