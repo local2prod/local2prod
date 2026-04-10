@@ -8,6 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/local2prod/)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayanky975@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/whos_mayank)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://local2prod.medium.com/)
 [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/devs2prod)
 </div>
 
@@ -16,10 +17,10 @@
 <!-- Terminal Intro Block -->
 ```bash
 $ whoami
-  Mayank Yadav — DevOps Engineer @ Tudip Technologies (Apr 2024 → Present)
+  Mayank Yadav — DevOps Engineer
 
 $ uptime
-  2+ years building scalable cloud infra & automated CI/CD pipelines
+  5+ years building scalable cloud infra & automated CI/CD pipelines
 
 $ cat ~/.certifications
   [✓] AWS Certified Solutions Architect – Associate (2024)
@@ -54,6 +55,9 @@ $ echo $CURRENT_FOCUS
                                                                                     OpenTelemetry
 ```
 ---
+
+
+
 
 ## ☁️ Cloud & Infrastructure
 
